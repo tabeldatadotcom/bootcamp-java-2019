@@ -1,0 +1,5 @@
+### maven build location
+target/
+
+### filesystem
+.DS_Store
