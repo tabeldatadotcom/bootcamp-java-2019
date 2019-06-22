@@ -8,3 +8,6 @@ target/
 .settings/
 .classpath
 .project
+
+### visualstudio code
+.vscode/
