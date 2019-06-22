@@ -3,3 +3,8 @@ target/
 
 ### filesystem
 .DS_Store
+
+### eclipse project
+.settings/
+.classpath
+.project
